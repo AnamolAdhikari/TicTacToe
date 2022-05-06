@@ -5,7 +5,7 @@ This is a basic Tic Tac Toe game/program written in Kotlin using Android Studio.
 <br>By understanding and implementing the knowledge of the language it was a possibility to turn one of my favorite game into an app. <br>
 
 
-You can view the demo of the software here -> [Software Demo Video](https://youtu.be/EvYcgjkAiTE)
+You can view the demo of the software here -> [Software Demo Video](https://youtu.be/TZvymWyMqyY)
 
 # Development Environment
 
